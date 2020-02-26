@@ -156,7 +156,7 @@
   "author": "reyhane masumi <r.masumi94@gmail.com>",
   "bundleDependencies": false,
   "dependencies": {
-    "mapir-mapbox": "https://github.com/DNA-h/mapir-mapbox.git",
+    "mapir-mapbox": "https://github.com/DNA-h/mapir-mapbox.git"
   },
   "deprecated": false,
   "devDependencies": {
